@@ -1,0 +1,23 @@
+{
+  "name": "gov-class-4-objects-and-inquirer",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "bin": "main.js",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  }
+}
